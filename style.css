@@ -192,10 +192,6 @@ li {
     gap: 1rem;
 }
 
-.experience-item {
-    padding: 8px 0;
-}
-
 .skills {
     margin: 8px 0;
     display: flex;
