@@ -102,10 +102,6 @@ li {
     text-transform: lowercase;
 }
 
-.bg-blue-dark { background: var(--blue-dark); }
-.bg-blue { background: var(--blue); }
-.bg-blue-light { background: var(--blue-light); }
-
 /* Skills Section */
 .skills {
     margin: 8px 0;
@@ -121,7 +117,9 @@ li {
     font-size: 0.9rem;
 }
 
-
+.bg-blue-dark { background: var(--blue-dark); }
+.bg-blue { background: var(--blue); }
+.bg-blue-light { background: var(--blue-light); }
 
 /* Contact Section */
 #contact {
