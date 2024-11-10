@@ -137,7 +137,7 @@ li {
     position: sticky;
     top: 0;
     background: white;
-    padding: 15px 0;
+    padding: 15px 0 0 0;
     border-bottom: 1px solid #eee;
     transition: box-shadow 0.3s ease;
 
